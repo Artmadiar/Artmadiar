@@ -11,9 +11,10 @@ alwaysApply: true
 - Это моя личная папка-хаб для проектов, заметок, дневника и привычек
 
 ## Структура папок
+- `profile/` — профессиональный профиль (skills, talks, education, experience, rates, contribution)
+- `projects/` — субпроекты (каждый может быть отдельным git-репо); README.md — список проектов
 - `vault/` — Obsidian vault (заметки, daily notes, проекты, привычки)
 - `journal/` — личный дневник. ПРИВАТНЫЙ. Не в git. Синк на внешний SSD
-- `projects/` — субпроекты (каждый может быть отдельным git-репо)
 - `notes/` — разные заметки и идеи
 - `calendar/` — синхронизация с Google Calendar
 - `backups/` — скрипты синхронизации
