@@ -1,0 +1,55 @@
+# === Приватное (не для git) ===
+journal/
+
+# === Тяжёлые файлы ===
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+*.tar.gz
+*.tar.bz2
+*.rar
+*.7z
+*.dmg
+*.iso
+*.img
+*.raw
+*.cr2
+*.nef
+*.arw
+*.psd
+*.ai
+
+# Фото (если случайно попадут)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.heic
+
+# === Obsidian ===
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
+vault/.obsidian/cache
+vault/.trash/
+
+# === macOS ===
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# === Cursor / IDE ===
+.cursor/mcp.json
+
+# === Разное ===
+*.log
+*.tmp
+*.swp
+*~
+node_modules/
