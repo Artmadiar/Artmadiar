@@ -1,5 +1,5 @@
 <code>🎓 Full Stack Software Developer</code>
-<code>⚪ Community: Metarhia</code>
+<code>⚪ Co-Founder & CTO of tapflow.ai</code>
 <code>👷 Speciality: Software engineer / Backend</code><br>
 <code>💡 [Skills](profile/skills.md)</code>
 <code>🧻 [Projects](projects/README.md)</code>
